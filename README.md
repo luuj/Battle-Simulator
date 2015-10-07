@@ -1,7 +1,7 @@
 Pokemon Battle Simulator
 ========================
 
-Written in Javaa
+Written in Java
 
 Created by:
 Brian Schwedock: @Bcssd1234,
