@@ -1,7 +1,7 @@
-Pokemon_Battle_Simulator
+Pokemon Battle Simulator
 ========================
 
-USC - CSCI201 Class Project
+Written in Javaa
 
 Created by:
 Brian Schwedock: @Bcssd1234,
